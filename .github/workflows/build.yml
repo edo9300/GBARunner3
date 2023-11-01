@@ -47,6 +47,7 @@ jobs:
       with:
         overwrite: true
         file_glob: true
+        prerelease: true
         tag: |
           builds
         file: |
