@@ -18,6 +18,7 @@
 /
 /----------------------------------------------------------------------------*/
 
+#include <string.h>
 #include "common.h"
 #include <libtwl/mem/memSwap.h>
 #include "MemCopy.h"
